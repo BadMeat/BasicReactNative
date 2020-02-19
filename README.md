@@ -7,6 +7,7 @@
 - JDK
 - Android Studio (untuk SDK dll)
 - Node JS
+- VSCODE
 ```
 
 ## Generate Project
