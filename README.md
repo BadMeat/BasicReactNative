@@ -1,2 +1,2 @@
 # BasicReactNative
-Ini apa yaaaa??????
+>**Hal yang perlu disiapkan**
