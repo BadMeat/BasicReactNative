@@ -1,5 +1,5 @@
 # BasicReactNative
->**Hal yang perlu disiapkan**
+## Hal yang perlu disiapkan
 ```
 - Harta
 - Tahta
@@ -9,17 +9,17 @@
 - Node JS
 ```
 
->**Generate Project**
+## Generate Project
 ```
 npm react-native init NamaReactNativeProject
 ```
 
->**Tema Untuk ReactNative, Semacam boostrap kali yak**
+## Tema Untuk ReactNative, Semacam boostrap kali yak
 - https://docs.nativebase.io/
 - https://react-native-elements.github.io/react-native-elements/
---
->**Website Reactnativenya versi .6**
+======
+## Website Reactnativenya versi .6
 - https://facebook.github.io/react-native/docs/activityindicator
---
->**ReactNative Firebase***
+======
+## ReactNative Firebase
 - https://invertase.io/oss/react-native-firebase/
