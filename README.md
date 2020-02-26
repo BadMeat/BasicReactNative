@@ -3,6 +3,7 @@
 ```
 - Harta
 - Tahta
+- Pria
 - Wanita
 - JDK
 - Android Studio (untuk SDK dll)
@@ -24,3 +25,6 @@ npm react-native init NamaReactNativeProject
 
 ## ReactNative Firebase
 - https://invertase.io/oss/react-native-firebase/
+
+## Ini Untuk Reduxnya yee
+https://github.com/BadMeat/SimpleRedux
